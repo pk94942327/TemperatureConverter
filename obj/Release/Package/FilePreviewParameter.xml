@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="TempCFConverter20170105013605" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Lernia\\DatahanteringXMLAPI\\Inlämning1\ -\ Temp\\TempCFConverter\\TempCFConverter\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Lernia\\DatahanteringXMLAPI\\Inlämning1\ -\ Temp\\TempCFConverter\\TempCFConverter\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
